@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mockito-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2095646
+Implementation-Vendor-Id: com.cognizant.mockito
+Build-Jdk: 1.8.0_321
+Implementation-URL: https://spring.io/projects/spring-boot/mockito-dem
+ o
+Created-By: Maven Integration for Eclipse
+
